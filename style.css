@@ -188,4 +188,23 @@ main {
 }
 .resume-container{
     display: flex;
+    gap: 70px;
+}
+.resume-iten-title{
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.resume-item-description, .resume-item-institute{
+    color: #757575;
+    font-size: 16px;
+    margin-top: 20px;
+     
+}
+.resume-container hr{
+    margin: 30px;
+}
+.download-cv{
+    text-align: center;
+    margin-top: 60PX;
 }
